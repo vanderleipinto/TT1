@@ -20,8 +20,3 @@ def fatorial(n)
   end
   result
 end
-
-
-puts fatorial(5)  # Saída: 120
-puts fatorial(0)  # Saída: 1
-puts fatorial(-1) # Saída: nil
